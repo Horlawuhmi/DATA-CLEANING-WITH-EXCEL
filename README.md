@@ -1,4 +1,4 @@
-# EXCEL_PROJECT_2
+# DATA CLEANING WITH EXCEL
 This project covers the essential of data cleaning. 
 
 # INTRODUCTION
